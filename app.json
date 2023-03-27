@@ -1,0 +1,8 @@
+{
+	"supportedVersions": {
+		"revolving": {
+			"android": "3.10.1",
+			"ios": "3.10.1"
+		}
+	}
+}
